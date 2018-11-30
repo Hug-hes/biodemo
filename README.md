@@ -1,4 +1,4 @@
-[![travis](https://travis-ci.org/USERNAME/biodemo.svg?branch=master)](https://travis-ci.org/Hug-hes/biodemo)
+[![travis](https://travis-ci.org/Hug-hes/biodemo.svg?branch=master)](https://travis-ci.org/Hug-hes/biodemo)
 
 # Overview 
 
